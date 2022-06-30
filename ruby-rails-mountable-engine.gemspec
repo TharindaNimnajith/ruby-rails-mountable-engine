@@ -1,15 +1,15 @@
 require_relative "lib/ruby/rails/mountable/engine/version"
 
 Gem::Specification.new do |spec|
-  spec.name        = "ruby-rails-mountable-engine"
-  spec.version     = Ruby::Rails::Mountable::Engine::VERSION
-  spec.authors     = ["Tharinda Nimnajith Rajapaksha"]
-  spec.email       = ["tharindarajapakshe@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Ruby::Rails::Mountable::Engine."
+  spec.name = "ruby-rails-mountable-engine"
+  spec.version = Ruby::Rails::Mountable::Engine::VERSION
+  spec.authors = ["Tharinda Nimnajith Rajapaksha"]
+  spec.email = ["tharindarajapakshe@gmail.com"]
+  spec.homepage = "TODO"
+  spec.summary = "TODO: Summary of Ruby::Rails::Mountable::Engine."
   spec.description = "TODO: Description of Ruby::Rails::Mountable::Engine."
-    spec.license     = "MIT"
-  
+  spec.license = "MIT"
+
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
   # to allow pushing to a single host or delete this section to allow pushing to any host.
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
